@@ -1,5 +1,5 @@
 {
-  "sources": ["src/design.v"],
-  "testbench": "sim/tb_design.v",
-  "simulation_top": "tb_design"
+  "sources": ["src/compare_4.v"],
+  "testbench": "sim/tb_compare_4.sv",
+  "simulation_top": "tb_compare_4"
 }
